@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"professor_state_spotted",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"professor_state_spotted",
+  "parent":{
+    "name":"Professor",
+    "path":"folders/Scripts/States/Professor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
