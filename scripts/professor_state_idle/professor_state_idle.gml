@@ -15,5 +15,5 @@ function professor_state_idle()
 			break;
 		}
 	}
-	sprite_index = spr_professorIdle;
+	sprite_index = spr_professor_idle;
 }
