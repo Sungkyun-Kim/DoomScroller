@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Classroom",
+  "%Name":"obj_Classroom",
   "eventList":[],
   "managed":true,
-  "name":"Classroom",
+  "name":"obj_Classroom",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"spr_Background",
+    "path":"sprites/spr_Background/spr_Background.yy",
   },
   "spriteMaskId":null,
   "visible":true,

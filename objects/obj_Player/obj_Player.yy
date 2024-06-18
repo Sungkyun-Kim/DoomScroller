@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Professor",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_Player",
+  "eventList":[],
   "managed":true,
-  "name":"Professor",
+  "name":"obj_Player",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"professorIdle",
-    "path":"sprites/professorIdle/professorIdle.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

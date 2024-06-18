@@ -1,12 +1,18 @@
-function professor_state_wander(){
-	if (direction == 0)
+function professor_state_wander()
+{
+	if(state = professor_states.wander && !global.pathIsRunning)
 	{
-		sprite_index = professorRight;
-		image_xscale = 1;
+		global.pathIsRunning = true;
+		
+		// Start Path
+		path_start(path_professor, 2, path_action_stop, false);
 	}
-	if (direction == 180)
-	{
-		sprite_index = professorLeft;
-		image_xscale = 1;
+	
+	// Change direction
+	if( abs(angle_difference(180, direction)) < 90){
+		sprite_index = spr_professor_walking_left;
+	}
+	else{
+		sprite_index = spr_professor_walking_right;
 	}
 }

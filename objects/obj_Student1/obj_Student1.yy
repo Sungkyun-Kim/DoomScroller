@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"obj_Student1",
   "eventList":[],
   "managed":true,
-  "name":"Object3",
+  "name":"obj_Student1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"StudentOne",
-    "path":"sprites/StudentOne/StudentOne.yy",
+    "name":"spr_student_one",
+    "path":"sprites/spr_student_one/spr_student_one.yy",
   },
   "spriteMaskId":null,
   "visible":true,

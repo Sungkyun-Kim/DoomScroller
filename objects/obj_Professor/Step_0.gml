@@ -1,0 +1,1 @@
+script_execute(professor_states_array[state]);

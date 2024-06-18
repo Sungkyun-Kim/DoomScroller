@@ -4,17 +4,16 @@ function professor_state_idle()
 	counter += 1;
 	
 	//Transition Triggers
-	if(counter >= room_speed * 9)
+	if(counter >= room_speed * 3)
 	{
 		var change = choose(0, 1);
 		switch(change)
 		{
-			case 0: state = states.wander;
+			case 0: state = professor_states.wander;
 			break;
 			case 1: counter = 0;
 			break;
 		}
 	}
-	
-	sprite_index = professorIdle;
+	sprite_index = spr_professorIdle;
 }
