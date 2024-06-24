@@ -5,7 +5,7 @@ function professor_state_wander()
 		global.pathIsRunning = true;
 		
 		// Start Path
-		path_start(path_professor, 3, path_action_stop, false);
+		path_start(path_professor, 2, path_action_stop, false);
 	}
 	
 	// Change direction

@@ -1,7 +1,7 @@
 {
   "$GMPath":"",
   "%Name":"path_professor",
-  "closed":true,
+  "closed":false,
   "kind":0,
   "name":"path_professor",
   "parent":{
@@ -12,6 +12,7 @@
     {"speed":100.0,"x":1250.0,"y":330.0,},
     {"speed":100.0,"x":675.0,"y":330.0,},
     {"speed":100.0,"x":675.0,"y":331.0,},
+    {"speed":100.0,"x":1250.0,"y":331.0,},
   ],
   "precision":4,
   "resourceType":"GMPath",
