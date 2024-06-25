@@ -10,8 +10,8 @@
   "name":"obj_stimbar",
   "overriddenProperties":[],
   "parent":{
-    "name":"DoomScroller",
-    "path":"DoomScroller.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

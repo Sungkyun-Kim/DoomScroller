@@ -5,8 +5,8 @@
   "kind":0,
   "name":"PhonePullDown",
   "parent":{
-    "name":"DoomScroller",
-    "path":"DoomScroller.yyp",
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
   "points":[
     {"speed":100.0,"x":317.0,"y":-153.0,},
