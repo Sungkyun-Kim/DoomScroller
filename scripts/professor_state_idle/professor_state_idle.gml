@@ -9,8 +9,12 @@ function professor_state_idle()
 		var change = choose(0, 1);
 		switch(change)
 		{
-			case 0: state = professor_states.wander;
-			break;
+			case 0: 
+			{
+				counter = 0;
+				state = professor_states.wander;
+				break;
+			}
 			case 1: counter = 0;
 			break;
 		}
