@@ -1,2 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
+enum player_states
+{
+	idle,
+	phone
+}
+
+state = player_states.idle;
