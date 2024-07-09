@@ -32,7 +32,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"DoomScroller",
   "resources":[
@@ -53,7 +53,6 @@
     {"id":{"name":"professor_state_idle","path":"scripts/professor_state_idle/professor_state_idle.yy",},},
     {"id":{"name":"professor_state_spotted","path":"scripts/professor_state_spotted/professor_state_spotted.yy",},},
     {"id":{"name":"professor_state_wander","path":"scripts/professor_state_wander/professor_state_wander.yy",},},
-    {"id":{"name":"Script4","path":"scripts/Script4/Script4.yy",},},
     {"id":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},},
     {"id":{"name":"spr_Phone","path":"sprites/spr_Phone/spr_Phone.yy",},},
     {"id":{"name":"spr_player_idle","path":"sprites/spr_player_idle/spr_player_idle.yy",},},
