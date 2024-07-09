@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"professor_state_spotted",
   "isCompatibility":false,
   "isDnD":false,

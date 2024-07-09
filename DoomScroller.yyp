@@ -32,7 +32,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"DoomScroller",
   "resources":[
@@ -42,6 +42,7 @@
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"obj_Professor","path":"objects/obj_Professor/obj_Professor.yy",},},
     {"id":{"name":"obj_stimbar","path":"objects/obj_stimbar/obj_stimbar.yy",},},
+    {"id":{"name":"obj_Strike","path":"objects/obj_Strike/obj_Strike.yy",},},
     {"id":{"name":"obj_Student1","path":"objects/obj_Student1/obj_Student1.yy",},},
     {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},},
     {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
@@ -61,6 +62,7 @@
     {"id":{"name":"spr_professor_walking_left","path":"sprites/spr_professor_walking_left/spr_professor_walking_left.yy",},},
     {"id":{"name":"spr_professor_walking_right","path":"sprites/spr_professor_walking_right/spr_professor_walking_right.yy",},},
     {"id":{"name":"spr_stimbar","path":"sprites/spr_stimbar/spr_stimbar.yy",},},
+    {"id":{"name":"spr_Strike","path":"sprites/spr_Strike/spr_Strike.yy",},},
     {"id":{"name":"spr_student_one","path":"sprites/spr_student_one/spr_student_one.yy",},},
   ],
   "resourceType":"GMProject",
