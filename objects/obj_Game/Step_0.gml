@@ -1,0 +1,34 @@
+if (keyboard_check_pressed(vk_enter))
+{
+	switch(room)
+	{
+		case rm_Menu:
+		room_goto(rm_Classroom);
+		break;
+		
+		case rm_Quiz:
+		room_goto(rm_Win);
+		break;
+		
+		case rm_Win:
+		game_restart();
+		break;
+		
+		case rm_Gameover:
+		game_restart();
+		break;
+	}
+}
+
+switch(room)
+{
+	case rm_Classroom:
+	if (global.stimValue <= 0 || global.numOfStrikes == 3)
+	{
+		room_goto(rm_Gameover);
+	}
+	break;
+	
+	case rm_Quiz:
+	break;
+}

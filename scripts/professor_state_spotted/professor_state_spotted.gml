@@ -1,5 +1,5 @@
 function professor_state_spotted(){
-    var detection_range = 200;
+    var detection_range = 220;
 	var suspicion_threshold = 220;
 
     if(distance_to_object(obj_Player) < detection_range) {

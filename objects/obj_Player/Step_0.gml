@@ -9,15 +9,14 @@ switch (state)
 		sprite_index = spr_player_phone;
 		break;
 }
-
+	
 if (global.numOfStrikes == 1)
 {
-	instance_create_layer(1000, 10, "Inst_Strikes", obj_Strike);
+	instance_create_layer(30, 80, "Inst_Strikes", obj_Strike);
 }
-
 else if(global.numOfStrikes == 2){
-	instance_create_layer(1080, 10, "Inst_Strikes", obj_Strike);
+	instance_create_layer(110, 80, "Inst_Strikes", obj_Strike);
 }
 else if(global.numOfStrikes == 3){
-	instance_create_layer(1160, 10, "Inst_Strikes", obj_Strike);
+	instance_create_layer(190, 80, "Inst_Strikes", obj_Strike);
 }

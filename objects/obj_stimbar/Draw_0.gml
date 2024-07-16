@@ -1,1 +1,1 @@
-stim_bar(40, 40, 140, 40, global.stimValue, 100);
+stim_bar(40, 40, 200, 40, global.stimValue, 100);

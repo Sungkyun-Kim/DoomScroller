@@ -1,5 +1,4 @@
 /// scr_health_bar(x, y, width, height, currentHealth, maxHealth)
-global.stimValue = 100;
 
 function stim_bar(x,y, width, height, currentHealth, maxHealth){
 	var x_pos = x;          // x position to draw the health bar

@@ -1,0 +1,1 @@
+instance_create_layer(980, 50, "Inst_Blackboard", obj_Blackboard);

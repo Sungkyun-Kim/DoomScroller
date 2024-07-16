@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Student1",
+  "%Name":"obj_Quiz",
   "eventList":[],
   "managed":true,
-  "name":"obj_Student1",
+  "name":"obj_Quiz",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_student_one",
-    "path":"sprites/spr_student_one/spr_student_one.yy",
+    "name":"spr_paper",
+    "path":"sprites/spr_paper/spr_paper.yy",
   },
   "spriteMaskId":null,
   "visible":true,
