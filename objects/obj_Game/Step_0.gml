@@ -23,6 +23,12 @@ if (keyboard_check_pressed(vk_enter))
 switch(room)
 {
 	case rm_Classroom:
+	
+	if(!global.isClockTicking){
+		audio_play_sound(SFX_Clock_Ticking, 0, true);
+		global.isClockTicking = true;
+	}
+	
 	if (global.stimValue <= 0 || global.numOfStrikes == 3)
 	{
 		room_goto(rm_Gameover);

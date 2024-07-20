@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_Professor_Walking",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":6.058667,
+  "name":"SFX_Professor_Walking",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_Professor_Walking.wav",
+  "type":0,
+  "volume":1.0,
+}

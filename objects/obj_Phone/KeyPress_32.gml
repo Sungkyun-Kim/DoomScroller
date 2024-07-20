@@ -1,3 +1,4 @@
+audio_play_sound(SFX_Phone_Up, 0, false, 1, 0, random_range(0.9, 1.4));
 if(global.isPhoneUp == 0)
 {
 	path_start(PhonePullUp, 20, path_action_stop, true);

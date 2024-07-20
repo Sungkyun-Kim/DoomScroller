@@ -1,5 +1,8 @@
 function professor_state_idle()
 {
+	
+	audio_stop_sound(SFX_Professor_Walking);
+	
 	//Behaviour
 	counter += 1;
 	
@@ -11,6 +14,7 @@ function professor_state_idle()
 		{
 			case 0: 
 			{
+				
 				counter = 0;
 				state = professor_states.wander;
 				break;
@@ -19,5 +23,6 @@ function professor_state_idle()
 			break;
 		}
 	}
+
 	sprite_index = spr_professor_idle;
 }

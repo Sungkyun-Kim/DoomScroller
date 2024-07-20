@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Phone",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_Student1",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Phone",
+  "name":"obj_Student1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Phone",
-    "path":"sprites/spr_Phone/spr_Phone.yy",
+    "name":"spr_student_one",
+    "path":"sprites/spr_student_one/spr_student_one.yy",
   },
   "spriteMaskId":null,
   "visible":true,

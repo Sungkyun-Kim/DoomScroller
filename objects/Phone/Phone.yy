@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Phone",
+  "%Name":"Phone",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Phone",
+  "name":"Phone",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"DoomScroller",
+    "path":"DoomScroller.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

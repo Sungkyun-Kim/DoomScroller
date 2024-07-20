@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"professor_state_wander",
   "isCompatibility":false,
   "isDnD":false,
