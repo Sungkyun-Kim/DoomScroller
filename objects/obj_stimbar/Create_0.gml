@@ -1,5 +1,3 @@
-/// scr_health_bar(x, y, width, height, currentHealth, maxHealth)
-
 function stim_bar(x,y, width, height, currentHealth, maxHealth){
 	var x_pos = x;          // x position to draw the health bar
 	var y_pos = y;          // y position to draw the health bar
