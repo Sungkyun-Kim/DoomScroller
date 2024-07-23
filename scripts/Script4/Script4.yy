@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Script4",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"DoomScroller",
+    "path":"DoomScroller.yyp",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

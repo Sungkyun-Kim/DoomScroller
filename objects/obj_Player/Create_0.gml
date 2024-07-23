@@ -4,6 +4,9 @@ enum player_states
 	phone
 }
 
+global.rate_of_decrement = 0.0001;
+global.rate = 0.36;
+
 state = player_states.idle;
 
 alarm[0] = irandom_range(800, 1700);

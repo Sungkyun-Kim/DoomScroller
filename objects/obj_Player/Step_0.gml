@@ -20,3 +20,26 @@ else if(global.numOfStrikes == 2){
 else if(global.numOfStrikes == 3){
 	instance_create_layer(190, 80, "Inst_Strikes", obj_Strike);
 }
+
+//If Mouse is Over Clock
+min_x = 495;
+min_y = 44;
+
+max_x = 547;
+max_y = 90;
+
+if (mouse_x > min_x && mouse_x < max_x && mouse_y > min_y && mouse_y < max_y) {
+	if(global.stimValue < 100){
+		global.stimValue += global.rate;
+		
+		
+		if(global.rate > 0.075){
+		global.rate_of_decrement *= 1.0033;
+		} else {
+			global.rate = 0.075;
+		}
+		global.rate -= global.rate_of_decrement;
+		show_debug_message(global.rate); 
+		
+		}
+}
