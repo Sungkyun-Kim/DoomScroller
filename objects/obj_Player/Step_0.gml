@@ -30,7 +30,10 @@ max_y = 90;
 
 if (mouse_x > min_x && mouse_x < max_x && mouse_y > min_y && mouse_y < max_y) {
 	if(global.stimValue < 100){
-		global.stimValue += global.rate;
+		if (global.isPhoneUp == 0)
+		{
+			global.stimValue += global.rate;
+		}
 		
 		
 		if(global.rate > 0.075){
@@ -39,7 +42,5 @@ if (mouse_x > min_x && mouse_x < max_x && mouse_y > min_y && mouse_y < max_y) {
 			global.rate = 0.075;
 		}
 		global.rate -= global.rate_of_decrement;
-		show_debug_message(global.rate); 
-		
 		}
 }

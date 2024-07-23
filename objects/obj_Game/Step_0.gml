@@ -5,11 +5,7 @@ if (keyboard_check_pressed(vk_enter))
 		case rm_Menu:
 		room_goto(rm_Classroom);
 		break;
-		
-		case rm_Quiz:
-		room_goto(rm_Win);
-		break;
-		
+
 		case rm_Win:
 		game_restart();
 		break;

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"clock0",
+  "%Name":"obj_clock0",
   "eventList":[],
   "managed":true,
-  "name":"clock0",
+  "name":"obj_clock0",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
