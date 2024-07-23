@@ -38,5 +38,3 @@ switch(room)
 	case rm_Quiz:
 	break;
 }
-
- 

@@ -14,7 +14,6 @@
     {"$GMFolder":"","%Name":"clock","folderPath":"folders/clock.yy","name":"clock","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"character_scrolling","folderPath":"folders/character_scrolling.yy","name":"character_scrolling","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,6 +39,7 @@
   "name":"DoomScroller",
   "resources":[
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
+    {"id":{"name":"Test","path":"notes/Test/Test.yy",},},
     {"id":{"name":"clock0","path":"objects/clock0/clock0.yy",},},
     {"id":{"name":"obj_Blackboard","path":"objects/obj_Blackboard/obj_Blackboard.yy",},},
     {"id":{"name":"obj_Classroom","path":"objects/obj_Classroom/obj_Classroom.yy",},},
@@ -68,7 +68,6 @@
     {"id":{"name":"SFX_Professor_Talk3","path":"sounds/SFX_Professor_Talk3/SFX_Professor_Talk3.yy",},},
     {"id":{"name":"SFX_Professor_Talk4","path":"sounds/SFX_Professor_Talk4/SFX_Professor_Talk4.yy",},},
     {"id":{"name":"SFX_Professor_Walking","path":"sounds/SFX_Professor_Walking/SFX_Professor_Walking.yy",},},
-    {"id":{"name":"character_scrolling_anim","path":"sprites/character_scrolling_anim/character_scrolling_anim.yy",},},
     {"id":{"name":"clock11","path":"sprites/clock11/clock11.yy",},},
     {"id":{"name":"monkey_shooting_loop","path":"sprites/monkey_shooting_loop/monkey_shooting_loop.yy",},},
     {"id":{"name":"Phone_Off","path":"sprites/Phone_Off/Phone_Off.yy",},},
