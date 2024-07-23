@@ -66,6 +66,7 @@
     {"id":{"name":"SFX_Professor_Talk4","path":"sounds/SFX_Professor_Talk4/SFX_Professor_Talk4.yy",},},
     {"id":{"name":"SFX_Professor_Walking","path":"sounds/SFX_Professor_Walking/SFX_Professor_Walking.yy",},},
     {"id":{"name":"monkey_shooting_loop","path":"sprites/monkey_shooting_loop/monkey_shooting_loop.yy",},},
+    {"id":{"name":"Phone_Off","path":"sprites/Phone_Off/Phone_Off.yy",},},
     {"id":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},},
     {"id":{"name":"spr_blackboard","path":"sprites/spr_blackboard/spr_blackboard.yy",},},
     {"id":{"name":"spr_Desk","path":"sprites/spr_Desk/spr_Desk.yy",},},
