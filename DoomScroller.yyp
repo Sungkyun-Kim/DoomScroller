@@ -39,6 +39,7 @@
   "name":"DoomScroller",
   "resources":[
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
+    {"id":{"name":"Test","path":"notes/Test/Test.yy",},},
     {"id":{"name":"clock0","path":"objects/clock0/clock0.yy",},},
     {"id":{"name":"obj_Blackboard","path":"objects/obj_Blackboard/obj_Blackboard.yy",},},
     {"id":{"name":"obj_Classroom","path":"objects/obj_Classroom/obj_Classroom.yy",},},

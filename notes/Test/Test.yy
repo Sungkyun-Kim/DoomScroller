@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Test",
+  "name":"Test",
+  "parent":{
+    "name":"DoomScroller",
+    "path":"DoomScroller.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
