@@ -61,6 +61,7 @@
     {"id":{"name":"professor_state_idle","path":"scripts/professor_state_idle/professor_state_idle.yy",},},
     {"id":{"name":"professor_state_spotted","path":"scripts/professor_state_spotted/professor_state_spotted.yy",},},
     {"id":{"name":"professor_state_wander","path":"scripts/professor_state_wander/professor_state_wander.yy",},},
+    {"id":{"name":"Script4","path":"scripts/Script4/Script4.yy",},},
     {"id":{"name":"SFX_Clock_Ticking","path":"sounds/SFX_Clock_Ticking/SFX_Clock_Ticking.yy",},},
     {"id":{"name":"SFX_Phone_Up","path":"sounds/SFX_Phone_Up/SFX_Phone_Up.yy",},},
     {"id":{"name":"SFX_Professor_Talk1","path":"sounds/SFX_Professor_Talk1/SFX_Professor_Talk1.yy",},},
