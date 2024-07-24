@@ -29,11 +29,8 @@ max_x = 547;
 max_y = 90;
 
 if (mouse_x > min_x && mouse_x < max_x && mouse_y > min_y && mouse_y < max_y) {
-	if(global.stimValue < 100){
-		if (global.isPhoneUp == 0)
-		{
-			global.stimValue += global.rate;
-		}
+	if(global.stimValue < 100 and global.isPhoneUp == 0){
+		global.stimValue += global.rate;
 		
 		
 		if(global.rate > 0.075){
