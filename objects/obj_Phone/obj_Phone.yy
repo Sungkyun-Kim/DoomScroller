@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Phone_Off",
-    "path":"sprites/Phone_Off/Phone_Off.yy",
+    "name":"spr_Phone",
+    "path":"sprites/spr_Phone/spr_Phone.yy",
   },
   "spriteMaskId":null,
   "visible":true,

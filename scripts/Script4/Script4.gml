@@ -1,2 +1,8 @@
-sprite_index = monkey_shooting_loop;
-image_index = 0;
+// Script assets have changed for v2.3.0 see
+// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+function Script4(){
+	x = spr_Phone_width;
+	y = 736;
+	
+	speed = 10;
+}
