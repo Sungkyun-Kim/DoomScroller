@@ -8,3 +8,15 @@ if (global.isPhoneUp != 0) {
         global.stimValue -= 0.3;
     }
 }
+
+if (global.blur_condition_stimbar) {
+    opacity += blur_speed;
+    if (opacity > max_opacity) {
+        opacity = max_opacity;
+    }
+} else {
+    opacity -= blur_speed;
+    if (opacity < 0) {
+        opacity = 0;
+    }
+}

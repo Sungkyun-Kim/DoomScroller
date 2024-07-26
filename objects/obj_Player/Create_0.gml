@@ -4,6 +4,7 @@ enum player_states
 	phone
 }
 
+global.lookingAtClock = false;
 global.rate_of_decrement = 0.0001;
 global.rate = 0.36;
 

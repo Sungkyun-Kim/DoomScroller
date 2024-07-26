@@ -39,7 +39,6 @@
   "name":"DoomScroller",
   "resources":[
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
-    {"id":{"name":"Test","path":"notes/Test/Test.yy",},},
     {"id":{"name":"obj_Answer","path":"objects/obj_Answer/obj_Answer.yy",},},
     {"id":{"name":"obj_Black","path":"objects/obj_Black/obj_Black.yy",},},
     {"id":{"name":"obj_Blackboard","path":"objects/obj_Blackboard/obj_Blackboard.yy",},},
@@ -65,7 +64,6 @@
     {"id":{"name":"professor_state_idle","path":"scripts/professor_state_idle/professor_state_idle.yy",},},
     {"id":{"name":"professor_state_spotted","path":"scripts/professor_state_spotted/professor_state_spotted.yy",},},
     {"id":{"name":"professor_state_wander","path":"scripts/professor_state_wander/professor_state_wander.yy",},},
-    {"id":{"name":"Script4","path":"scripts/Script4/Script4.yy",},},
     {"id":{"name":"SFX_Clock_Ticking","path":"sounds/SFX_Clock_Ticking/SFX_Clock_Ticking.yy",},},
     {"id":{"name":"SFX_Phone_Up","path":"sounds/SFX_Phone_Up/SFX_Phone_Up.yy",},},
     {"id":{"name":"SFX_Professor_Talk1","path":"sounds/SFX_Professor_Talk1/SFX_Professor_Talk1.yy",},},
@@ -98,7 +96,6 @@
     {"id":{"name":"spr_student_one","path":"sprites/spr_student_one/spr_student_one.yy",},},
     {"id":{"name":"spr_student_two","path":"sprites/spr_student_two/spr_student_two.yy",},},
     {"id":{"name":"spr_unblur","path":"sprites/spr_unblur/spr_unblur.yy",},},
-    {"id":{"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
