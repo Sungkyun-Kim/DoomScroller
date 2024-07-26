@@ -1,6 +1,5 @@
  script_execute(professor_states_array[state]);
  if(professor_states_array[state] == professor_states_array[professor_states.idle]){
-	 show_debug_message("Inside");
 	 if(!global.professorIsTalking){
 		 randInt = irandom_range(0,3);
 		 
