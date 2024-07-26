@@ -29,6 +29,8 @@ max_x = 547;
 max_y = 90;
 
 if (mouse_x > min_x && mouse_x < max_x && mouse_y > min_y && mouse_y < max_y) {
+	
+	global.lookingAtClock = true;
 	if(global.stimValue < 100 and global.isPhoneUp == 0){
 		global.stimValue += global.rate;
 		
@@ -40,4 +42,6 @@ if (mouse_x > min_x && mouse_x < max_x && mouse_y > min_y && mouse_y < max_y) {
 		}
 		global.rate -= global.rate_of_decrement;
 		}
+} else {
+	global.lookingAtClock = false;
 }

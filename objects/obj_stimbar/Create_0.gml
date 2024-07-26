@@ -1,3 +1,4 @@
+
 function stim_bar(x,y, width, height, currentHealth, maxHealth){
 	var x_pos = x;          // x position to draw the health bar
 	var y_pos = y;          // y position to draw the health bar
@@ -16,4 +17,4 @@ function stim_bar(x,y, width, height, currentHealth, maxHealth){
 	// Draw health bar
 	draw_set_color(bar_color);
 	draw_rectangle(x_pos, y_pos, x_pos + bar_width * health_percentage, y_pos + bar_height, false);
-} 
+}
