@@ -1,3 +1,7 @@
+opacity = 0;
+max_opacity = 1;  // Maximum opacity (100% black)
+blur_speed = 0.01;  // Speed at which the screen becomes black
+global.blur_condition_stimbar = false;
 
 function stim_bar(x,y, width, height, currentHealth, maxHealth){
 	var x_pos = x;          // x position to draw the health bar

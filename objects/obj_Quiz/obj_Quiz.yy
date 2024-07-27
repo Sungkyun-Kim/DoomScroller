@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_paper",
-    "path":"sprites/spr_paper/spr_paper.yy",
+    "name":"exam_paper_txt",
+    "path":"sprites/exam_paper_txt/exam_paper_txt.yy",
   },
   "spriteMaskId":null,
   "visible":true,

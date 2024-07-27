@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"student1",
-    "path":"sprites/student1/student1.yy",
+    "name":"student_writing",
+    "path":"sprites/student_writing/student_writing.yy",
   },
   "spriteMaskId":null,
   "visible":true,
