@@ -10,7 +10,6 @@ function professor_state_spotted(){
 				 global.suspicionValue = 0;
 				 global.numOfStrikes++;
 				 
-				 show_debug_message(global.numOfStrikes);
 			}
 		}
     } else {

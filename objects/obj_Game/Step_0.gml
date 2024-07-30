@@ -31,6 +31,15 @@ switch(room)
 	}
 	break;
 	
+	case rm_Gameover:
+	audio_stop_all();
+	break;
+	
 	case rm_Quiz:
+	audio_stop_all();
+	break;
+	
+	case rm_Win:
+	audio_stop_all();
 	break;
 }
