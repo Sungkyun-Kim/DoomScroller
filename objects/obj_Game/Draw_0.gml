@@ -11,6 +11,13 @@ switch(room)
 		
 		So you also need to pay attention to class.
 		
+		Also there is a special mechanic in the game.
+		When you hover your mouse on top of the clock, you can decrease the rate of your stim bar going down.
+		Plus, this is the one of the two way to see your stim bar status.
+		Another way to see your stimbar is when you actually go on your phone.
+		
+		Have Fun.
+		
 		SPACE BAR: Use Phone
 		
 		>> PRESS ENTER TO START THE GAME <<");
