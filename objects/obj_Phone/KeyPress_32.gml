@@ -3,7 +3,7 @@ if(global.isPhoneUp == 0)
 {
 	global.blur_condition = true;
 	show_debug_message(global.blur_condition)
-	sprite_index = monkey_shooting_loop;
+	sprite_index = Phone_Anim_CookieMan;
 	image_index = 0;
 	path_start(PhonePullUp, 20, path_action_stop, true);
 	global.isPhoneUp = 1;
